@@ -23,7 +23,6 @@
 # misc
 .DS_Store
 *.pem
-.ai
 
 # debug
 npm-debug.log*
@@ -40,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# IDE/Editor files
+.cursor/
+.ai/
+.vscode/
+.idea/
+
